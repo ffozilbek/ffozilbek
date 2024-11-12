@@ -44,7 +44,7 @@ Frontend dasturchi. Frontend dasturlashni 2020 yil o'rganishni boshlaganman.Hozi
                 </td>
                 <td><strong>Ecommerce product page</strong> <br>Onlayn do'konning mahsulot haqida ma'lumot sahifasi
                     <br><br> <a href="https://github.com/ffozilbek/ecommerce">🧾 Repo</a> - <a
-                        href="https://ffecommercedemo.netlify.app/" rel="nofollow">🌐 Netlify</a> - ⌚ 4 soat
+                        href="https://ff-ecommerce.netlify.app/" rel="nofollow">🌐 Netlify</a> - ⌚ 4 soat
                     45 daqiqa<br><br> <strong>O'ziga xos jihatlari:</strong> Savatchada mahsulot bor-yo'qligiga
                     moslangan dropdown menyu, rasmlar galereyasi, lightbox
                 </td>

@@ -34,6 +34,21 @@ Frontend dasturchi. Frontend dasturlashni 2020 yil o'rganishni boshlaganman.Hozi
         </thead>
         <tbody>
             <tr>
+                <td><a rel="noopener noreferrer nofollow" href="https://github.com/ffozilbek/ff-coffeeroaster">
+                        <img src="https://github.com/user-attachments/assets/7c2e0402-e9e9-48aa-b1aa-a14970f17629"
+                            alt="Coffee Roaster" width="250"
+                            data-canonical-src="https://res.cloudinary.com/dz209s6jk/image/upload/q_auto,w_700/Challenges/fhzpdnabrek50hvhftnl.jpg"
+                            style="max-width: 100%;"></a><br>
+                    <a href="https://www.frontendmentor.io/challenges/ecommerce-product-page-UPsZ9MJp6"
+                        rel="nofollow">Maket manbasi</a>
+                </td>
+                <td><strong>Coffee Roaster</strong> <br>Qahvani sevuvchilar qahva mahsulotlari haqida ma'lumotlar sahifasi
+                    <br><br> <a href="https://github.com/ffozilbek/ff-coffeeroaster">🧾 Repo</a> - <a
+                        href="https://ff-coffeeroaster.netlify.app/" rel="nofollow">🌐 Netlify</a> - ⌚ 6 soat
+                    15 daqiqa<br><br> <strong>O'ziga xos jihatlari:Qulay responsive dizayn,accordion dropdownlar</strong> 
+                </td>
+            </tr>
+            <tr>
                 <td><a rel="noopener noreferrer nofollow" href="https://github.com/ffozilbek/ecommerce">
                         <img src="https://www.frontendmentor.io/_next/image?url=https%3A%2F%2Fres.cloudinary.com%2Fdz209s6jk%2Fimage%2Fupload%2Fv1715958959%2FChallenges%2Fnnhmflkuam4gr1dnnddf.jpg&w=384&q=75"
                             alt="Ecommerce product page preview" width="250"

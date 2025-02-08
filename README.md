@@ -34,12 +34,27 @@ Frontend dasturchi. Frontend dasturlashni 2020 yil o'rganishni boshlaganman.Hozi
         </thead>
         <tbody>
             <tr>
+                <td><a rel="noopener noreferrer nofollow" href="https://github.com/ffozilbek/fayzek_art-gallery">
+                        <img src="https://github.com/user-attachments/assets/c91f94c4-ea66-46a5-aa19-dd29c37490d0"
+                            alt="Rasmlar gallereyasi" width="250"
+                            data-canonical-src="https://res.cloudinary.com/dz209s6jk/image/upload/q_auto,w_700/Challenges/fhzpdnabrek50hvhftnl.jpg"
+                            style="max-width: 100%;"></a><br>
+                    <a href="#"
+                        rel="nofollow">Maket manbasi</a>
+                </td>
+                <td><strong>Rasmlar galereyasi</strong> <br>O'zim chizgan rasmlar to'plami, instagramdagi obunachilar yuklab olishlari uchun.
+                    <br><br> <a href="https://github.com/ffozilbek/fayzek_art-gallery">🧾 Repo</a> - <a
+                        href="https://fayzekart.netlify.app/" rel="nofollow">🌐 Netlify</a> - ⌚ 2 soat
+                    25 daqiqa<br><br> <strong>O'ziga xos jihatlari:Qulay interfeys,Pinterestniki kabi grid sistemasi, yaxshi responsive dizayn</strong> 
+                </td>
+            </tr>
+            <tr>
                 <td><a rel="noopener noreferrer nofollow" href="https://github.com/ffozilbek/ff-coffeeroaster">
                         <img src="https://github.com/user-attachments/assets/7c2e0402-e9e9-48aa-b1aa-a14970f17629"
                             alt="Coffee Roaster" width="250"
                             data-canonical-src="https://res.cloudinary.com/dz209s6jk/image/upload/q_auto,w_700/Challenges/fhzpdnabrek50hvhftnl.jpg"
                             style="max-width: 100%;"></a><br>
-                    <a href="https://www.frontendmentor.io/challenges/ecommerce-product-page-UPsZ9MJp6"
+                    <a href="https://www.figma.com/design/DUAiQm4seZotfvvLtU1L0x/Coffeeroasters-(Copy)-(Copy)?node-id=0-1&p=f&t=Iy9HCRNJHCl3PiWJ-0"
                         rel="nofollow">Maket manbasi</a>
                 </td>
                 <td><strong>Coffee Roaster</strong> <br>Qahvani sevuvchilar qahva mahsulotlari haqida ma'lumotlar sahifasi

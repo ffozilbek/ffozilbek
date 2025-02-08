@@ -51,7 +51,7 @@ Frontend dasturchi. Frontend dasturlashni 2020 yil o'rganishni boshlaganman.Hozi
             </tr>
             <tr>
                 <td><a rel="noopener noreferrer nofollow" href="https://github.com/ffozilbek/easybank"><img
-                            src="https://camo.githubusercontent.com/34ab4eb7e375593de1134daaf93ee93dec236faa4eca9eb704fb257c5b2b16b5/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f647a32303973366a6b2f696d6167652f75706c6f61642f715f6175746f2c775f3730302f4368616c6c656e6765732f6f34697979776b776a6333316570636d736d796f2e6a7067"
+                            src="https://github.com/LucianEmanuel/-Easybank-landing-page/blob/main/design/desktop-preview.jpg"
                             alt="Easybank preview" width="250"
                             data-canonical-src="https://res.cloudinary.com/dz209s6jk/image/upload/q_auto,w_700/Challenges/o4iyywkwjc31epcmsmyo.jpg"
                             style="max-width: 100%;"></a><br><a

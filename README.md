@@ -17,6 +17,9 @@ Frontend dasturchi. Frontend dasturlashni 2020 yil o'rganishni boshlaganman.Hozi
     <a href="https://react.dev/" target="_blank" rel="noreferrer"> <img
             src="https://github.com/user-attachments/assets/900baee8-e566-4a6f-95f6-02003f10f172"
             alt="reactjs" width="40" height="40" /> </a>
+    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img
+            src="https://github.com/user-attachments/assets/86a118a5-e502-4146-a426-d3c54c4ae28f"
+            alt="tailwindcss" width="40" height="40" /> </a>
     <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
             alt="bootstrap" width="40" height="40" /> </a>
